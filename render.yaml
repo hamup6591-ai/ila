@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ila
+    runtime: node
+    buildCommand: ""
+    startCommand: "node server.js"
